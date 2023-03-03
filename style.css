@@ -1,0 +1,267 @@
+  
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    
+  }
+  
+#nav{
+  width: 300px;
+  float: left;
+  margin-left: 50px;
+}
+
+
+
+
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  nav li {
+    margin: 0 10px;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+  }
+  nav{ 
+    background: color #333; ;
+    height: 80px ;
+    width: 1649px;
+    margin-top: 0%;
+    margin-left: 0%;
+    
+
+
+  }
+  nav ul{
+    float: left;
+    margin-right: 20px;
+    margin-top: 30px;
+  margin-left: 50px;
+}
+
+  .li{
+    float: right;
+    
+    
+  }
+  #o{
+    height: 1662px;
+width: 1349px;
+background-color: #111;
+
+  }
+    #a{
+height: 740px;
+width: 1349px;
+background-color: #333;
+  
+}
+    .b{
+      height: 600px;
+      width: 380px;;
+      background-color:#333;
+      float:left;
+      margin-top: 80px;
+      margin-left: 40px;
+      
+    }
+   #q{
+      font-size: medium;
+      color: white;
+    height: 10px;
+    margin-top: 40px;
+    margin-left: 20px;
+    }
+    #w{
+font-size: xxx-large;
+color: yellow;
+height: 10px;
+margin-top: 30px;
+margin-left: 20px;
+    }
+    #e{
+      font-size:x-large;
+      
+    margin-top: 70px;
+    margin-left: 20px;
+      height: 10px;
+    }
+  
+    #t{
+      font-size: medium;
+      color: white;
+    height: 10px;
+    margin-top: 30px;
+    margin-left: 20px;
+    }
+    #r{
+font-size: xx-large;
+color: yellow;
+height: 10px;
+margin-top: 70px;
+margin-left: 20px;
+    }
+    #y{
+      font-size: medium;
+      color: white;
+    height: 10px;
+    margin-top: 30px;
+    margin-left: 15px;
+background-color: #333;
+    }
+    #u{
+      font-size: medium;
+      color:yellow;
+    height: 10px;
+    margin-top: 5px;
+background-color: #333;
+border: none;
+cursor: pointer;    
+}
+   #n{
+    background-color: #333;
+    height: 80px;
+    width: 1000px;
+    padding: 0px;
+    margin-left: 160px;
+    margin-top: -40px;
+    border: #111 1px solid;
+   }
+   #l{
+    height: 500px;
+    width: 1349px;
+    background-color: #111;
+    margin-top: 00px;   
+    }
+    .z{
+      height: 500px;
+      width: 380px;;
+      background-color:#111;
+      float:left;
+      margin-top: 80px;
+      margin-left: 40px;
+      
+    }
+    #v{
+      font-size: medium;
+      color: silver;
+    height: 10px;
+    margin-top: 60px;
+    margin-left: 20px;
+    }
+    #x{
+      font-size:small;
+      color: yellow;
+      height: 10px;
+      margin-top: 70px;
+      margin-left: 20px;
+      float: left;
+      width: 150px;
+          }
+         #c{
+          font-size:small;
+          color: gray;
+          height: 10px;
+          margin-top: 70px;
+          margin-left: 20px;
+          width: 15px;
+        
+         }
+         #j{
+          float: left;
+          width: 150px;
+         }
+         #ra{
+          font-size: x-large;
+          color:white;
+          height: 10px;
+          margin-top: 70px;
+          margin-left: 440px;
+        }
+          #ca{
+            font-size:small;
+            color: gray;
+            height: 10px;
+            margin-top: 70px;
+            width: 15px;
+            
+          
+           }
+          
+           .er{
+            height: 60px;
+            width: 150px;
+            margin-top: 10px;
+            background-color: #222;
+            float:left;
+            margin-left: 80px;
+           }
+           .ba{
+            height: 300px;
+            width: 380px;;
+            background-color:#333;
+            float:left;
+            margin-top: 0px;
+            margin-left: 40px;
+            
+          }
+  .za{
+    height: 500px;
+    width: 800px;;
+    background-color:#111;
+    float:left;
+    margin-top: 80px;
+    margin-left: 40px;
+    
+  }
+  .ta{
+    height: 200px;
+    width: 300px;;
+    background-color:#111;
+    float:left;
+  
+    
+  }
+  .icons
+  {
+    margin-top: 10%;
+    margin-left: 5%;
+    float: left;
+  }
+.radius
+{   
+      background-color:#111;
+      float:left;
+      margin-top: 80px;
+      align-items: center;
+      border-radius: 60%;
+      width: 35%;
+      
+    }
+
+.bottomicons
+{
+     width: 40px;
+     height: 40px;
+     border-radius: 60%;
+     background-color: #222;
+     float:left;
+     margin-top: 10px;
+     margin-left: 40px;
+
+
+
+}    
